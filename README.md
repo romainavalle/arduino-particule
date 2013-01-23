@@ -19,5 +19,6 @@ I used the basic simple [button](http://arduino.cc/en/tutorial/button) and [pote
 #### [socket.io](http://socket.io)
 #### [johnny-five](https://github.com/rwldrn/johnny-five)
 
+Watch the video on youtube [http://www.youtube.com/watch?v=u933SVEcwMw&feature=youtu.be](http://www.youtube.com/watch?v=u933SVEcwMw&feature=youtu.be)
 
 Special thanks to [@picooose](https://github.com/picooose)
