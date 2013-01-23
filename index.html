@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Particules + Arduino</title>
+		<meta charset="utf-8" />
+		<style type="text/css">
+			body{background:#333}
+			canvas{
+				margin-left: -400px;
+				margin-top: -250px;
+				left: 50%;
+				position:absolute;
+				top:50%;
+			}
+		</style>
+	</head>
+	<body>
+		<canvas id="c"></canvas>
+		<script src="/js/socket.io.js"></script>
+		<script src="/js/socket.js"></script>
+		<script src="/js/particules.js"></script>
+		<script>
+	  initSocket();
+  	startApp();
+		</script>
+	</body>
+</html>
