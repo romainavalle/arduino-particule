@@ -4,7 +4,9 @@
 Here is my very first project using an Arduino.
 
 It's a really simple particule engine driven by an Arduino.
-Pushing button create particules
+
+Pushing button create particules.
+
 Turning potentiometer change the gravity between 0 and 1
 
 ### Circuit
